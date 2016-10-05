@@ -1,0 +1,11 @@
+# Autosaves and temporary files.
+*~
+*#
+
+# Compiled sources.
+*.out
+*.o
+*.class
+
+# OS generated files.
+.DS_STORE
